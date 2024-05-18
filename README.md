@@ -1,4 +1,8 @@
 <!-- Intro  -->
+<a href="https://komarev.com/ghpvc/?username=saurabh4073">
+  <img align="right" src="https://komarev.com/ghpvc/?username=saurabh4073&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.linkedin.com/in/saurabh-kale-4735b5101//">Saurabh Kale</a></b>
@@ -85,7 +89,3 @@
 
 
 ![Saurabh Kale's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabh4073&custom_title=Saurabh%20Kale's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<a href="https://komarev.com/ghpvc/?username=saurabh4073">
-  <img align="right" src="https://komarev.com/ghpvc/?username=saurabh4073&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
