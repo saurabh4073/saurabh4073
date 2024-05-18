@@ -35,7 +35,7 @@
   
  🎓 &emsp; I am a graduate of Master's in Information Technology <br/><br/>
  ❤️ &emsp; Love to try new dishes and learn new things <br/><br/>
- ⚡ &emsp; Open to work on anything
+ ⚡ &emsp; Open to work on anything <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/saurabh4073/saurabh4073/issues)
 
 </p>
@@ -83,7 +83,7 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsaurabh4073siam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saurabh4073&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <a href="https://komarev.com/ghpvc/?username=saurabh4073">
   <img align="right" src="https://komarev.com/ghpvc/?username=saurabh4073&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
