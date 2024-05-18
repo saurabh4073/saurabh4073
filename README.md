@@ -34,10 +34,11 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  🎓 &emsp; I am a graduate of Master's in Information Technology <br/><br/>
- ❤️ &emsp; Love to try new dishes and learn new things <br/><br/>
+ ❤️ &emsp; Love to try new things <br/><br/>
  ⚡ &emsp; Open to work on anything <br/><br/>
+ 🧩 &emsp; In free time I play with rubik's cube <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/saurabh4073/saurabh4073/issues)
-
+ 
 </p>
 
 <br/>
