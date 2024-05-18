@@ -37,7 +37,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🎓 &emsp; I am a graduate of Master's in Information Technology <br/><br/>
+ 🎓 &emsp; I am a graduate with a Master's degree in Information Technology <br/><br/>
  ❤️ &emsp; Love to try new things <br/><br/>
  ⚡ &emsp; Open to work on anything <br/><br/>
  🧩 &emsp; In free time I play with rubik's cube <br/><br/>
