@@ -20,7 +20,7 @@
 
 <p align="center">
  <a href="https://saurabh4073.github.io/portfolio/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio" />
+   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" alt="Saurabh's portfolio" />
  </a>
  <a href="https://www.linkedin.com/in/saurabh-kale-4735b5101/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saurabh-kale-4735b5101"/>
@@ -40,6 +40,7 @@
  🎓 &emsp; I am a graduate with a Master's degree in Information Technology <br/><br/>
  ❤️ &emsp; Love to try new things <br/><br/>
  ⚡ &emsp; Open to work on anything <br/><br/>
+ 🧠 &emsp; I'm presently focused on enhancing my AWS skills. <br/><br/>
  🧩 &emsp; In free time I play with rubik's cube <br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/saurabh4073/saurabh4073/issues)
  
